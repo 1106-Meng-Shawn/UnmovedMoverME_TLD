@@ -1,0 +1,764 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameCityTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameCityTable
+  m_TableCollectionNameGuidString: 68f49a33d8b6dac4a8b7e5547199af3e
+  m_Entries:
+  - m_Id: 41081856000
+    m_Key: Dijon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41115410432
+    m_Key: Marseille
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41115410433
+    m_Key: Brennaburg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41115410434
+    m_Key: Berlin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799040
+    m_Key: Potsdam
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799041
+    m_Key: Allstedt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799042
+    m_Key: Hamburg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799043
+    m_Key: Lubeck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799044
+    m_Key: Bonn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799045
+    m_Key: Trier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799046
+    m_Key: Prague
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799047
+    m_Key: Moravia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799048
+    m_Key: Sudeten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799049
+    m_Key: Mainz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799050
+    m_Key: Heidelberg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799051
+    m_Key: Seven-Hilled City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799052
+    m_Key: San Marino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799053
+    m_Key: Milan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799054
+    m_Key: Bologna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799055
+    m_Key: Lombardy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799056
+    m_Key: Ratisbon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799057
+    m_Key: Munich
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799058
+    m_Key: Nuremberg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18425406154301440
+    m_Key: Netherlands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799060
+    m_Key: Austria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799061
+    m_Key: Venice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799062
+    m_Key: Budapest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799063
+    m_Key: Debrecen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799064
+    m_Key: Pecs
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5248780034048
+    m_Key: East Thrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799066
+    m_Key: West Thrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799067
+    m_Key: Bucharest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799068
+    m_Key: Moldavia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799069
+    m_Key: Belgrade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799070
+    m_Key: Stari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799071
+    m_Key: Ras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799072
+    m_Key: Transylvania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799073
+    m_Key: Macedonia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799074
+    m_Key: Athens
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799075
+    m_Key: Sofia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799076
+    m_Key: North Thrace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799077
+    m_Key: Constaninople
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799078
+    m_Key: Artaxata
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799079
+    m_Key: Ani
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799080
+    m_Key: Tigranocerta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799081
+    m_Key: Hattusa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799082
+    m_Key: Carchemish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799083
+    m_Key: Tarhuntassa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799084
+    m_Key: Nicomedia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799085
+    m_Key: Kastamonu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799086
+    m_Key: Trabzon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799087
+    m_Key: Damascus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799088
+    m_Key: Halab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799089
+    m_Key: Raqqa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799090
+    m_Key: Babylon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799091
+    m_Key: Uruk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799092
+    m_Key: Sacred City
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799094
+    m_Key: Acre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799095
+    m_Key: Ashkelon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799096
+    m_Key: Sinai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799097
+    m_Key: Cairo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799098
+    m_Key: Rhacotis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799099
+    m_Key: Thebes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799100
+    m_Key: Cyprus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799101
+    m_Key: Assur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799102
+    m_Key: Tehran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799103
+    m_Key: Ecbatana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799104
+    m_Key: Tripolitania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799105
+    m_Key: Fezzan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799106
+    m_Key: Cyrene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799107
+    m_Key: Benghazi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799108
+    m_Key: Cherchell
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799109
+    m_Key: Hippo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799110
+    m_Key: Oran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799111
+    m_Key: Sardinia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799112
+    m_Key: Corsica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799113
+    m_Key: Tunisia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799114
+    m_Key: Tacapae
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799115
+    m_Key: Cordoba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799116
+    m_Key: Granada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799117
+    m_Key: Gibraltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799118
+    m_Key: Zaragoza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799119
+    m_Key: Albacete
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799120
+    m_Key: Teruel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799121
+    m_Key: Pamplona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799122
+    m_Key: Roncevaux Pass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799123
+    m_Key: Leon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799124
+    m_Key: Toledo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799125
+    m_Key: Salamanca
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799126
+    m_Key: Barcelona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799127
+    m_Key: Girona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5248780034049
+    m_Key: Demon's Castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799129
+    m_Key: Compostela
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799130
+    m_Key: Lugo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799131
+    m_Key: Tangier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799132
+    m_Key: Fez
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799133
+    m_Key: Rabat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799134
+    m_Key: Lisbon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799135
+    m_Key: Aeminium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799136
+    m_Key: Porto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799137
+    m_Key: Solomon Islands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799138
+    m_Key: Reims
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799139
+    m_Key: Troyes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799140
+    m_Key: Orleans
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799141
+    m_Key: Bordeaux
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799142
+    m_Key: Limoges
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799143
+    m_Key: Agen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799144
+    m_Key: Rennes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799145
+    m_Key: Brest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799146
+    m_Key: Vannes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799147
+    m_Key: Rouen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799148
+    m_Key: Caen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799149
+    m_Key: Ile de Paris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799150
+    m_Key: Toulouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799151
+    m_Key: Carcassonne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799152
+    m_Key: Moscow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799153
+    m_Key: Vladimir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799154
+    m_Key: Tver
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799155
+    m_Key: Minsk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799156
+    m_Key: Polotsk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799157
+    m_Key: Vitebsk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799158
+    m_Key: Crimea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799159
+    m_Key: Dnipropetrovsk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799160
+    m_Key: Cherkasy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799161
+    m_Key: Kazan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799162
+    m_Key: Yelabuga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799163
+    m_Key: Cheboksary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799164
+    m_Key: Kiev
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799165
+    m_Key: Zhytomyr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41123799166
+    m_Key: Syktyvkar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187648
+    m_Key: Ukhta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5248780034050
+    m_Key: Veliky Novgorod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187651
+    m_Key: Plescow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187652
+    m_Key: Ladoga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187653
+    m_Key: Nizhny Novgorod
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187654
+    m_Key: Astrakhan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187655
+    m_Key: Bolghar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187656
+    m_Key: Georgia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187657
+    m_Key: Ciscaucasia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187658
+    m_Key: Transcaucasia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187659
+    m_Key: Vyborg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187660
+    m_Key: East Karelia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187661
+    m_Key: Kola Peninsula
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187662
+    m_Key: Avalon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187663
+    m_Key: London
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187664
+    m_Key: York
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187665
+    m_Key: Bristol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187666
+    m_Key: Dublin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187667
+    m_Key: Belfast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187668
+    m_Key: Lanceshire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187669
+    m_Key: Cardiff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187670
+    m_Key: Highland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187671
+    m_Key: Edinburgh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187672
+    m_Key: Glasgow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187673
+    m_Key: Copenhagen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187674
+    m_Key: Schleswig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187675
+    m_Key: Jutland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187676
+    m_Key: Iceland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187677
+    m_Key: Inari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187678
+    m_Key: Kautokeino
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187679
+    m_Key: Valhalla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187680
+    m_Key: Stockholm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187681
+    m_Key: Uppsala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187682
+    m_Key: Lulea
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187683
+    m_Key: Turku
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187684
+    m_Key: Helsinki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187685
+    m_Key: Oulu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187686
+    m_Key: Oslo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187687
+    m_Key: Bergen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187688
+    m_Key: Tromso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187689
+    m_Key: Naples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187690
+    m_Key: Bari
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187691
+    m_Key: Sicily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187692
+    m_Key: Konigsberg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187693
+    m_Key: Latvia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187694
+    m_Key: Estonia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187695
+    m_Key: Lithuania
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187696
+    m_Key: Wroclaw
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187697
+    m_Key: Lubusz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187698
+    m_Key: Legnica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187699
+    m_Key: Volodymyr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187700
+    m_Key: Lutsk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41132187701
+    m_Key: Kovel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 504609955864576
+    m_Key: Stari Ras
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5396967657564798978
+  references:
+    version: 2
+    RefIds:
+    - rid: 5396967657564798978
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1750839528946

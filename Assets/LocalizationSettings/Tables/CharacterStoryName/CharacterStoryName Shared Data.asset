@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CharacterStoryName Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CharacterStoryName
+  m_TableCollectionNameGuidString: 21786260b5cfaab4c9bb05bfa4b626c2
+  m_Entries:
+  - m_Id: 455365685370880
+    m_Key: You
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35461488640
+    m_Key: Entelecheia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820288
+    m_Key: Emilia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820289
+    m_Key: Brandenburg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820290
+    m_Key: Saxony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820291
+    m_Key: Cologne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820292
+    m_Key: Trier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820293
+    m_Key: Bohemia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820294
+    m_Key: Mainz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820295
+    m_Key: Platinate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820296
+    m_Key: Richard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820297
+    m_Key: Ivan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820298
+    m_Key: Anna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820299
+    m_Key: Roland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820300
+    m_Key: Constantine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820301
+    m_Key: Eleanor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820302
+    m_Key: Jane
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820303
+    m_Key: Jacques
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820304
+    m_Key: Dido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820305
+    m_Key: Louis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820306
+    m_Key: Maria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820307
+    m_Key: Messia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820308
+    m_Key: AlexeiGood
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820309
+    m_Key: PinkMaid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35511820310
+    m_Key: Hanna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4590150104080384
+    m_Key: ???
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5396967437739491330
+  references:
+    version: 2
+    RefIds:
+    - rid: 5396967437739491330
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1749870522401

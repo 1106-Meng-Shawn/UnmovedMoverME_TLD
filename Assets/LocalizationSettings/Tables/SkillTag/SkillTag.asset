@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: SkillTag
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: e65879b5cd03e504c90fd56021db3121, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 691ffc8b153755443918e82c30dcb30b, type: 2}
+  - {fileID: 11400000, guid: 78620dcfa1401b746b1c91f869868ec9, type: 2}
+  - {fileID: 11400000, guid: 4312e1bb767a3f745a07b17bbc2bde96, type: 2}
+  - {fileID: 11400000, guid: d64eec6789f10054b8d928dff53798d8, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

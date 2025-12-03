@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Setting_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3055c379ae204214fbae1e8a77f6d8d4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 831502733314
+    m_Localized: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733315
+    m_Localized: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733313
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733312
+    m_Localized: Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733316
+    m_Localized: Confirmation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733317
+    m_Localized: Full Screen Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733318
+    m_Localized: Window Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733319
+    m_Localized: Show Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733320
+    m_Localized: Display Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733321
+    m_Localized: Game Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733322
+    m_Localized: Skip Unread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733323
+    m_Localized: Change Read Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733324
+    m_Localized: Text Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733325
+    m_Localized: Auto Text Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733326
+    m_Localized: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733327
+    m_Localized: BGM Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733328
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733329
+    m_Localized: Voice Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733330
+    m_Localized: Default
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

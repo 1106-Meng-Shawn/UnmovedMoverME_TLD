@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 14ed2edc5e5d5f34c971db8902ecdd65
+  m_SerializeEntries:
+  - m_GUID: 17a66824c736ee64baf6d88dc2ee41f2
+    m_Address: Assets/LocalizationSettings/Tables/ClassRole/ClassRole Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21786260b5cfaab4c9bb05bfa4b626c2
+    m_Address: Assets/LocalizationSettings/Tables/CharacterStoryName/CharacterStoryName
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29b215b4e6b400c4988914253ee94d0a
+    m_Address: Assets/LocalizationSettings/Tables/StringTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44c756af1d8d0ce45ae90ef8560496e6
+    m_Address: Assets/LocalizationSettings/Tables/CharacterStoryTitle/CharacterStoryTitle
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5976e65c232f5064daadbab3bd8aa74d
+    m_Address: Assets/LocalizationSettings/Tables/GameCountryTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6372b8c1840a82e4e8cc52b25a421270
+    m_Address: Assets/LocalizationSettings/Tables/IntroName/IntroName Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68f49a33d8b6dac4a8b7e5547199af3e
+    m_Address: Assets/LocalizationSettings/Tables/GameCityTable/GameCityTable Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e65879b5cd03e504c90fd56021db3121
+    m_Address: Assets/LocalizationSettings/Tables/SkillTag/SkillTag Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb4a1e509838e154b85d8a8d07dc319e
+    m_Address: Assets/LocalizationSettings/Tables/GameSetting/GameSetting Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3055c379ae204214fbae1e8a77f6d8d4
+    m_Address: Assets/LocalizationSettings/Tables/Setting/Setting Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48ccdb899d3db5c4a8248432e2723727
+    m_Address: Assets/LocalizationSettings/Tables/Notifications/Notifications Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba5590824c77ebd40a162f3e2c9bb87e
+    m_Address: Assets/LocalizationSettings/Tables/Setting Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea70032dc3f481a478ba8c5d2aec7f07
+    m_Address: Assets/LocalizationSettings/Tables/GameCityTable/CityName Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 02768a1cd9d7f15498b0f4471bbd3be5, type: 2}
+  m_SchemaSet:
+    m_Schemas: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: CityName
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: ea70032dc3f481a478ba8c5d2aec7f07, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 6afaef1fa3efdb345a10aab044b1c5a0, type: 2}
+  - {fileID: 11400000, guid: ab62a042eca865249bff440cbdc40b90, type: 2}
+  - {fileID: 11400000, guid: 9ddfb288b7f2d1e49a34ec00d087c60b, type: 2}
+  - {fileID: 11400000, guid: 8baa2892896f81545a2a6195cba7789b, type: 2}
+  - {fileID: 11400000, guid: d1858f3bc3474ac43ad690ae129dd640, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

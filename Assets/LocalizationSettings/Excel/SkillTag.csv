@@ -1,0 +1,16 @@
+﻿Key,Chinese (Simplified)(zh-Hans),Chinese (Traditional)(zh-TW),English(en),Japanese(ja)
+ATTACK,攻击,攻擊,Attack,攻撃
+HEAL,治疗,治療,Heal,回復
+BUFF,强化,強化,Buff,強化
+DEBUFF,弱化,弱化,Debuff,弱体
+PASSIVE,被动,被動,Passive,能動
+SELF,自身,自身,Self,自身
+ALLYSINGLE,友方单体,友方單體,Ally Single,味方単体
+ALLYAREA,友方范围,友方範圍,Ally Area,味方範囲
+ALLYALL,友方全体,友方全體,Ally All,味方全体
+ENEMYSINGLE,敌方单体,敵方單體,Enemy Single,敵方単体
+ENEMYAREA,敌方范围,敵方範圍,Enemy Area,敵方範囲
+ENEMYALL,敌方全体,敵方全體,Enemy All,敵方全体
+MELEE,近战,近戰,Melee,近接
+RANGED,远程,遠程,Ranged,遠距
+ACTIVE,主动,主動,Active,受動

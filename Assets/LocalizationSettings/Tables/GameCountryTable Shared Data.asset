@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameCountryTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameCountryTable
+  m_TableCollectionNameGuidString: 5976e65c232f5064daadbab3bd8aa74d
+  m_Entries:
+  - m_Id: 18612969472
+    m_Key: Arab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4381227774337024
+    m_Key: Mesopotamia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23706756755185664
+    m_Key: Babylonia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23943929856
+    m_Key: Babylon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29325221888
+    m_Key: Carthage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122485784576
+    m_Key: Demon Kingdom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978880
+    m_Key: Egypt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978881
+    m_Key: Kingdom of Englaland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978882
+    m_Key: East Romulus Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23625441561239552
+    m_Key: Free Francus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978883
+    m_Key: Kingdom of Francus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978884
+    m_Key: Hungary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978885
+    m_Key: State of the Knights Templar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978886
+    m_Key: Kalmar Union
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978887
+    m_Key: Macedonia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978888
+    m_Key: Ottoman Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978889
+    m_Key: Persian Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978890
+    m_Key: Polish-Lithuanian Commonwealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978891
+    m_Key: Rus Principality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978892
+    m_Key: Sami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978893
+    m_Key: Sky Fire Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978894
+    m_Key: State of the Teutonic Order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978895
+    m_Key: Scythia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978896
+    m_Key: Greece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978897
+    m_Key: Demihuman Alliance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978898
+    m_Key: Avalon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978899
+    m_Key: Giant's Island
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978900
+    m_Key: Military State of Naples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978901
+    m_Key: Kingdom of Sicily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978902
+    m_Key: Union of Salvation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978903
+    m_Key: Holy Romulus Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978904
+    m_Key: Trier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978905
+    m_Key: Cologne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978906
+    m_Key: Bohemia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978907
+    m_Key: Brandenburg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978908
+    m_Key: Saxony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978909
+    m_Key: Mainz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978910
+    m_Key: Platinate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978911
+    m_Key: Papal State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23625441632542720
+    m_Key: Fairy Tale Kingdom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326592
+    m_Key: Bologna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326593
+    m_Key: Lombardy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326594
+    m_Key: Bavaria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23625441632542721
+    m_Key: Netherlands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326596
+    m_Key: Austria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326597
+    m_Key: Venice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401781440512
+    m_Key: Burgundy
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5396967362420539393
+  references:
+    version: 2
+    RefIds:
+    - rid: 5396967362420539393
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1749579776756

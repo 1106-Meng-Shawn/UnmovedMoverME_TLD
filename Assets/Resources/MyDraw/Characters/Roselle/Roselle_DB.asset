@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e57d275d1ef7e7d4baaba9c32ed3d230, type: 3}
+  m_Name: Roselle_DB
+  m_EditorClassIdentifier: 
+  CharacterKey: Roselle
+  DefaultSprite: {fileID: 21300000, guid: 4a8480ac7708f9f43848408d4c23aa5e, type: 3}
+  DefaultIcon: {fileID: 21300000, guid: ef5b0dc01483f95489772ca8a7021c9c, type: 3}
+  characterTypes:
+  - characterType: Roselle
+    DefaultSprite: {fileID: 21300000, guid: a901999b21782f94cb85a020caa88723, type: 3}
+    DefaultIcon: {fileID: 21300000, guid: c970da48b05dfd94aa185cf55fed2f19, type: 3}
+    poses: []

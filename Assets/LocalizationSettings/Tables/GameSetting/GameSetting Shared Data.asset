@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GameSetting Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GameSetting
+  m_TableCollectionNameGuidString: fb4a1e509838e154b85d8a8d07dc319e
+  m_Entries:
+  - m_Id: 39324442624
+    m_Key: Spring
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39387357184
+    m_Key: Summer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39387357185
+    m_Key: Fall
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39387357186
+    m_Key: Winter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884119116341248
+    m_Key: TASKS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884119196033024
+    m_Key: EVENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884119196033025
+    m_Key: REPORTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884347286478848
+    m_Key: REREAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884347286478849
+    m_Key: CHECK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4546426112270336
+    m_Key: Next Season
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594527941582848
+    m_Key: Replenish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594528025468928
+    m_Key: Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5427386345283584
+    m_Key: Explore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594528025468929
+    m_Key: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594528025468930
+    m_Key: Scount
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9770300202508288
+    m_Key: "You are stepping into not the same river again\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10944878748590080
+    m_Key: Get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14230050990415872
+    m_Key: RemoveLord
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5396967399184400387
+  references:
+    version: 2
+    RefIds:
+    - rid: 5396967399184400387
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1749751773750

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: SkillTag_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e65879b5cd03e504c90fd56021db3121, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 54075809792
+    m_Localized: Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54155501568
+    m_Localized: Heal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54155501569
+    m_Localized: Buff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54155501570
+    m_Localized: Debuff
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695872
+    m_Localized: Passive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695873
+    m_Localized: Self
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695874
+    m_Localized: Ally Single
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695875
+    m_Localized: Ally Area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695876
+    m_Localized: Ally All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695877
+    m_Localized: Enemy Single
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695878
+    m_Localized: Enemy Area
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695879
+    m_Localized: Enemy All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695880
+    m_Localized: Melee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695881
+    m_Localized: Ranged
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54159695882
+    m_Localized: Active
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

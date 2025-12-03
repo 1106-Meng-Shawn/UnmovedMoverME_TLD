@@ -1,0 +1,173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5414269946037985
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 406065253275041366}
+  - component: {fileID: 1466357501899013839}
+  - component: {fileID: 4790236324359538971}
+  - component: {fileID: 7248306078336221683}
+  - component: {fileID: 2648919864154323235}
+  - component: {fileID: 2887265419377359601}
+  m_Layer: 0
+  m_Name: Total Value
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &406065253275041366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414269946037985}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 960, y: 540, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3611887710915787096}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1466357501899013839
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414269946037985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd6a956b70069d64cab665782547bbce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4790236324359538971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414269946037985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f3a8a2c40cc22c44a146ce04401595b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterExtrasSaveLibrary:
+    CharacterExtrasSaveDatas: []
+--- !u!114 &7248306078336221683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414269946037985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1830876e35f8ac649bdb0dfe3cab59c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentDifficultyGame: 1
+  allCharacterDBs: []
+--- !u!114 &2648919864154323235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414269946037985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60f954db6251eb64fb66ee5fca7c3250, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentYear: 1442
+  currentSeason: 0
+  food: 100
+  science: 300
+  politics: 1515
+  gold: 3333
+  faith: 666
+  totalRecruitedPopulation: 6666
+  Achievement: 666
+  scout: 6565
+  build: 3
+  negotiation: 55
+  playerCountry: 
+  playerName: 
+  battleDataTest:
+    isTest: 0
+    cityIndex: 0
+    exploreLevel: 0
+    isExplore: 0
+    battleMaxTurn: 0
+  playerCharacterIDs: []
+  enemyCharacterIDs: []
+  isExplore: 0
+  battleMaxTurn: 43
+  regionID: 0
+--- !u!114 &2887265419377359601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5414269946037985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01f3838ba2338514abc5044198a3dc84, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  testIsMultiplePlaythroughs: 0
+--- !u!1 &7823933861209746043
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3611887710915787096}
+  - component: {fileID: 5988757974772099210}
+  m_Layer: 0
+  m_Name: SettingValueLibrary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3611887710915787096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7823933861209746043}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 406065253275041366}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5988757974772099210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7823933861209746043}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b44c63d9075330e4489eb087f265652e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

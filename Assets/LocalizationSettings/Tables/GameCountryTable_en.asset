@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameCountryTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5976e65c232f5064daadbab3bd8aa74d, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 18612969472
+    m_Localized: Arab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23943929856
+    m_Localized: Babylon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29325221888
+    m_Localized: Carthage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122485784576
+    m_Localized: Demon Kingdom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978880
+    m_Localized: Egypt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978881
+    m_Localized: Kingdom of Englaland
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978882
+    m_Localized: East Romulus Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978883
+    m_Localized: Kingdom of Francus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978884
+    m_Localized: Hungary
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978885
+    m_Localized: State of the Knights Templar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978886
+    m_Localized: Kalmar Union
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978887
+    m_Localized: Macedonia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978888
+    m_Localized: Ottoman Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978889
+    m_Localized: Persian Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978890
+    m_Localized: Polish-Lithuanian Commonwealth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978891
+    m_Localized: Rus Principality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978892
+    m_Localized: Sami
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978893
+    m_Localized: Sky Fire Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978894
+    m_Localized: State of the Teutonic Order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978895
+    m_Localized: Scythia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978896
+    m_Localized: Greece
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978897
+    m_Localized: Demihuman Alliance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978898
+    m_Localized: Avalon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978899
+    m_Localized: Giant's Island
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978900
+    m_Localized: Military State of Naples
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978901
+    m_Localized: Kingdom of Sicily
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978902
+    m_Localized: Union of Salvation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978903
+    m_Localized: Holy Romulus Empire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978904
+    m_Localized: Trier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978905
+    m_Localized: Cologne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978906
+    m_Localized: Bohemia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978907
+    m_Localized: Brandenburg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978908
+    m_Localized: Saxony
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978909
+    m_Localized: Mainz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978910
+    m_Localized: Platinate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10122489978911
+    m_Localized: Papal State
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4381227774337024
+    m_Localized: Mesopotamia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401781440512
+    m_Localized: Burgundy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326592
+    m_Localized: Bologna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326593
+    m_Localized: Lombardy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326594
+    m_Localized: Bavaria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326596
+    m_Localized: Austria
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9842401865326597
+    m_Localized: Venice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23625441561239552
+    m_Localized: Free Francus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23625441632542720
+    m_Localized: Fairy Tale Kingdom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23625441632542721
+    m_Localized: Netherlands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23706756755185664
+    m_Localized: Babylonia
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,283 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: IntroName_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 6372b8c1840a82e4e8cc52b25a421270, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 40092000256
+    m_Localized: Elector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40146526208
+    m_Localized: Country
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720512
+    m_Localized: Region
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720513
+    m_Localized: Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720514
+    m_Localized: Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720515
+    m_Localized: Recruit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720519
+    m_Localized: Total Population
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720520
+    m_Localized: Total Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720521
+    m_Localized: Total Science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720522
+    m_Localized: Total Politics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720523
+    m_Localized: Total Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720524
+    m_Localized: Total Faith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720525
+    m_Localized: Consctiption Popution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720526
+    m_Localized: Support Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720527
+    m_Localized: Region Number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720528
+    m_Localized: Character Number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720529
+    m_Localized: Item Number
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720530
+    m_Localized: Scout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720531
+    m_Localized: Build
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720532
+    m_Localized: Negotiation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720533
+    m_Localized: Lord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720534
+    m_Localized: Achievenment Point
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720535
+    m_Localized: Favorability
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720536
+    m_Localized: Region Support Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720537
+    m_Localized: Declare War
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720538
+    m_Localized: Explore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720539
+    m_Localized: Explore Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720540
+    m_Localized: Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40150720541
+    m_Localized: Science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914816
+    m_Localized: Politics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914817
+    m_Localized: Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914818
+    m_Localized: Faith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914819
+    m_Localized: Region Total Population
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914820
+    m_Localized: Region Next Population
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914821
+    m_Localized: Population Growth Rate
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914822
+    m_Localized: Available Population
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914823
+    m_Localized: Region Recruited Population
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914824
+    m_Localized: Food Parameter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914825
+    m_Localized: Science Parameter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914826
+    m_Localized: Politics Parameter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914827
+    m_Localized: Gold Parameter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914828
+    m_Localized: Faith Parameter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914829
+    m_Localized: Food Growth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914830
+    m_Localized: Science Growth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914831
+    m_Localized: Politics Growth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914832
+    m_Localized: Gold Growth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914833
+    m_Localized: Faith Growth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914834
+    m_Localized: Region Food Surplus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914835
+    m_Localized: Region Science Surplus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914836
+    m_Localized: Region Politics Surplus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914837
+    m_Localized: Region Gold Surplus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914838
+    m_Localized: Region Faith Surplus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914839
+    m_Localized: Region Next Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914840
+    m_Localized: Region Next Science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914841
+    m_Localized: Region Next Politics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914842
+    m_Localized: Region Next Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914843
+    m_Localized: Region Next Faith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914844
+    m_Localized: Region Next Tax Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914845
+    m_Localized: Region Next Tax Science
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914846
+    m_Localized: Region Next Tax Politics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40154914847
+    m_Localized: Region Next Tax Gold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151325093093376
+    m_Localized: Events
+    m_Metadata:
+      m_Items: []
+  - m_Id: 148884519870464
+    m_Localized: Region Next Get Faith
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151325093093377
+    m_Localized: Tasks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 151325093093378
+    m_Localized: Reports
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

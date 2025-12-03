@@ -1,0 +1,236 @@
+Portugal,46,Lisbon,0,Portugal,46,Aeminium,1
+Portugal,46,Aeminium,1,Portugal,46,Porto,2
+Portugal,46,Porto,2,Galicia,44,Compostela,0
+Galicia,44,Compostela,0,Galicia,44,Lugo,1
+Galicia,44,Lugo,1,Basque,40,Pamplona,0
+Basque,40,Pamplona,0,Basque,40,Roncevaux Pass,1
+Castile,41,Leon,0,Basque,40,Pamplona,0
+Castile,41,Salamanca,2,Castile,41,Leon,0
+Castile,41,Toledo,1,Castile,41,Salamanca,2
+Demon's Castle,43,Demon's Castle,0,Castile,41,Toledo,1
+Aragon,39,Teruel,2,Demon's Castle,43,Demon's Castle,0
+Andalusia,38,Gibraltar,2,Andalusia,38,Cordoba,0
+Andalusia,38,Cordoba,0,Castile,41,Toledo,1
+Castile,41,Toledo,1,Aragon,39,Teruel,2
+Aragon,39,Teruel,2,Andalusia,38,Granada,1
+Andalusia,38,Granada,1,Andalusia,38,Cordoba,0
+Aragon,39,Teruel,2,Aragon,39,Zaragoza,0
+Aragon,39,Zaragoza,0,Aragon,39,Albacete,1
+Aragon,39,Albacete,1,Basque,40,Roncevaux Pass,1
+Basque,40,Roncevaux Pass,1,Aquitaine,49,Agen,2
+Aquitaine,49,Agen,2,Aquitaine,49,Bordeaux,0
+Aquitaine,49,Limoges,1,Aquitaine,49,Bordeaux,0
+Aragon,39,Albacete,1,Catalonia,42,Barcelona,0
+Catalonia,42,Barcelona,0,Catalonia,42,Girona,1
+Catalonia,42,Girona,1,Toulouse,53,Carcassonne,1
+Toulouse,53,Carcassonne,1,Toulouse,53,Toulouse,0
+Toulouse,53,Carcassonne,1,Aquitaine,49,Agen,2
+Toulouse,53,Toulouse,0,Champagne,48,Orleans,2
+Champagne,48,Orleans,2,Champagne,48,Troyes,1
+Champagne,48,Troyes,1,Champagne,48,Reims,0
+Toulouse,53,Toulouse,0,Burgundy,0,Marseille,1
+Catalonia,42,Barcelona,0,Solomon Island,47,Solomon Island,0
+Solomon Island,47,Solomon Island,0,Sardinia and Corsica,36,Sardinia,0
+Sardinia and Corsica,36,Sardinia,0,Sardinia and Corsica,36,Corsica,1
+Burgundy,0,Marseille,1,Sardinia and Corsica,36,Corsica,1
+Sardinia and Corsica,36,Corsica,1,Papal State,8,Milan,2
+Papal State,8,Milan,2,Papal State,8,San Marino,1
+Papal State,8,Seven-Hilled City,0,Papal State,8,San Marino,1
+Papal State,8,Seven-Hilled City,0,Naples,76,Naples,0
+Naples,76,Naples,0,Naples,76,Bari,1
+Naples,76,Bari,1,Macedonia,19,Macedonia,0
+Naples,76,Bari,1,Sicily,77,Sicily,0
+Sicily,77,Sicily,0,Tunisia,37,Tunisia,0
+Tunisia,37,Tunisia,0,Sardinia and Corsica,36,Sardinia,0
+Tunisia,37,Tunisia,0,Tunisia,37,Tacapae,1
+Tunisia,37,Tacapae,1,Africa,33,Tripolitania,0
+Africa,33,Tripolitania,0,Africa,33,Fezzan,1
+Africa,33,Fezzan,1,Cyrenaica,34,Benghazi,1
+Cyrenaica,34,Benghazi,1,Cyrenaica,34,Cyrene,0
+Cyrenaica,34,Cyrene,0,Egypt,30,Alexandria,1
+Egypt,30,Alexandria,1,Egypt,30,Cairo,0
+Egypt,30,Cairo,0,Sinai,29,Sinai,0
+Sinai,29,Sinai,0,Egypt,30,Alexandria,1
+Egypt,30,Thebes,2,Egypt,30,Cairo,0
+Sinai,29,Sinai,0,Jerusalem,28,Ashkelon,2
+Jerusalem,28,Ashkelon,2,Jerusalem,28,Sacred City,0
+Jerusalem,28,Sacred City,0,Jerusalem,28,Acre,1
+Jerusalem,28,Acre,1,Cyprus,31,Cyprus,0
+Cyprus,31,Cyprus,0,Hittite,24,Tarhuntassa,2
+Andalusia,38,Gibraltar,2,Maghreb,45,Tangier,0
+Maghreb,45,Rabat,2,Maghreb,45,Tangier,0
+Maghreb,45,Tangier,0,Maghreb,45,Fez,1
+Maghreb,45,Fez,1,Mauretania,35,Oran,2
+Mauretania,35,Oran,2,Mauretania,35,Cherchell,0
+Mauretania,35,Cherchell,0,Mauretania,35,Hippo,1
+Mauretania,35,Hippo,1,Tunisia,37,Tunisia,0
+Brittany,50,Brest,1,Brittany,50,Rennes,0
+Brittany,50,Rennes,0,Brittany,50,Vannes,2
+Brittany,50,Vannes,2,Aquitaine,49,Limoges,1
+Brittany,50,Rennes,0,Normandy,51,Caen,1
+Normandy,51,Caen,1,Normandy,51,Rouen,0
+Normandy,51,Rouen,0,Netherland,12,Netherland,0
+Normandy,51,Rouen,0,Englaland,66,London,0
+Englaland,66,London,0,Englaland,66,Bristol,2
+Englaland,66,Bristol,2,Wales,68,Cardiff,1
+Wales,68,Cardiff,1,Wales,68,Lanceshire,0
+Wales,68,Lanceshire,0,Englaland,66,York,1
+Englaland,66,York,1,Englaland,66,London,0
+Wales,68,Cardiff,1,Ireland,67,Dublin,0
+Ireland,67,Dublin,0,Ireland,67,Belfast,1
+Englaland,66,York,1,Scotland,69,Glasgow,2
+Scotland,69,Glasgow,2,Scotland,69,Edinburgh,1
+Scotland,69,Highland,0,Scotland,69,Edinburgh,1
+Ile de Paris,52,Ile de Paris,0,Champagne,48,Orleans,2
+Champagne,48,Reims,0,Ile de Paris,52,Ile de Paris,0
+Champagne,48,Reims,0,Normandy,51,Rouen,0
+Ile de Paris,52,Ile de Paris,0,Normandy,51,Caen,1
+Aquitaine,49,Limoges,1,Champagne,48,Orleans,2
+Sami,72,Valhalla,2,Sami,72,Inari,0
+Sami,72,Inari,0,Sami,72,Kautokeino,1
+Sami,72,Kautokeino,1,Norway,75,Tromso,2
+Norway,75,Bergen,1,Norway,75,Tromso,2
+Norway,75,Bergen,1,Norway,75,Oslo,0
+Denmark,70,Copenhagen,0,Norway,75,Oslo,0
+Denmark,70,Copenhagen,0,Denmark,70,Jutland,1
+Denmark,70,Jutland,1,Denmark,70,Schleswig,2
+Iceland,71,Iceland,0,Norway,75,Tromso,2
+Karelia,64,Kola Peninsula,2,Karelia,64,East Karelia,1
+Karelia,64,East Karelia,1,Karelia,64,Vyborg,0
+Sami,72,Kautokeino,1,Sweden,73,Lulea,2
+Sweden,73,Lulea,2,Sweden,73,Uppsala,1
+Sweden,73,Uppsala,1,Sweden,73,Stockholm,0
+Sweden,73,Stockholm,0,Denmark,70,Copenhagen,0
+Sami,72,Inari,0,Finland,74,Oulu,2
+Finland,74,Oulu,2,Finland,74,Turku,0
+Finland,74,Turku,0,Finland,74,Helsinki,1
+Finland,74,Helsinki,1,Finland,74,Oulu,2
+Finland,74,Oulu,2,Finland,74,Helsinki,1
+Karelia,64,Vyborg,0,Finland,74,Helsinki,1
+Komi,60,Ukhta,1,Komi,60,Syktyvkar,0
+Komi,60,Syktyvkar,0,Kazan,58,Cheboksary,2
+Kazan,58,Cheboksary,2,Kazan,58,Kazan,0
+Kazan,58,Kazan,0,Kazan,58,Yelabuga,1
+Novgorod,61,Ladoga,2,Novgorod,61,Veliky Novgorod,0
+Karelia,64,Vyborg,0,Novgorod,61,Ladoga,2
+Novgorod,61,Veliky Novgorod,0,Novgorod,61,Plescow,1
+Novgorod,61,Plescow,1,Baltic,79,Estonia,1
+Baltic,79,Estonia,1,Baltic,79,Latvia,0
+Baltic,79,Latvia,0,Lithuania,80,Lithuania,0
+Teutonic,78,Konigsberg,0,Lithuania,80,Lithuania,0
+Finland,74,Helsinki,1,Baltic,79,Estonia,1
+Kazan,58,Cheboksary,2,Moscow,54,Tver,2
+Moscow,54,Tver,2,Belarus,55,Polotsk,1
+Belarus,55,Polotsk,1,Belarus,55,Vitebsk,2
+Belarus,55,Vitebsk,2,Moscow,54,Moscow,0
+Moscow,54,Moscow,0,Moscow,54,Tver,2
+Moscow,54,Moscow,0,Moscow,54,Vladimir,1
+Volga,62,Nizhny Novgorod,0,Volga,62,Bolghar,2
+Volga,62,Nizhny Novgorod,0,Volga,62,Astrakhan,1
+Volga,62,Astrakhan,1,Volga,62,Bolghar,2
+Volga,62,Nizhny Novgorod,0,Dnieper,57,Dnipropetrovsk,0
+Dnieper,57,Dnipropetrovsk,0,Dnieper,57,Cherkasy,1
+Dnieper,57,Cherkasy,1,Volga,62,Nizhny Novgorod,0
+Dnieper,57,Cherkasy,1,Kiev,59,Kiev,0
+Kiev,59,Kiev,0,Kiev,59,Zhytomyr,1
+Belarus,55,Polotsk,1,Belarus,55,Minsk,0
+Belarus,55,Minsk,0,Belarus,55,Vitebsk,2
+Crimea,56,Crimea,0,Dnieper,57,Dnipropetrovsk,0
+Crimea,56,Crimea,0,Caucasus,63,Ciscaucasia,1
+Caucasus,63,Ciscaucasia,1,Caucasus,63,Georgia ,0
+Caucasus,63,Georgia ,0,Caucasus,63,Transcaucasia,2
+Persia,32,Ecbatana,2,Persia,32,Tehran,1
+Persia,32,Tehran,1,Persia,32,Assur,0
+Persia,32,Ecbatana,2,Persia,32,Assur,0
+Persia,32,Assur,0,Caucasus,63,Transcaucasia,2
+Mesopotamia,27,Babylon,0,Mesopotamia,27,Uruk,1
+Mesopotamia,27,Uruk,1,Persia,32,Ecbatana,2
+Persia,32,Assur,0,Mesopotamia,27,Babylon,0
+Mesopotamia,27,Babylon,0,Armenia,23,Ani,1
+Caucasus,63,Transcaucasia,2,Armenia,23,Ani,1
+Armenia,23,Tigranocerta,2,Caucasus,63,Georgia ,0
+Armenia,23,Tigranocerta,2,Armenia,23,Artaxata,0
+Armenia,23,Artaxata,0,Armenia,23,Ani,1
+Armenia,23,Ani,1,Armenia,23,Tigranocerta,2
+Greece,20,Athens,0,Macedonia,19,Macedonia,0
+Thrace,16,West Thrace,1,Thrace,16,East Thrace,0
+Thrace,16,West Thrace,1,Greece,20,Athens,0
+Macedonia,19,Macedonia,0,Thrace,16,West Thrace,1
+Thrace,16,East Thrace,0,Constaninople,22,Constaninople,0
+Bulgaria,21,North Thrace,1,Thrace,16,East Thrace,0
+Bulgaria,21,North Thrace,1,Thrace,16,West Thrace,1
+Bulgaria,21,Sofia,0,Bulgaria,21,North Thrace,1
+Romania,17,Bucharest,0,Bulgaria,21,Sofia,0
+Romania,17,Bucharest,0,Romania,17,Moldavia,1
+Serbia,18,Stari Ras,1,Serbia,18,Transylvania,2
+Serbia,18,Transylvania,2,Serbia,18,Belgrade,0
+Serbia,18,Belgrade,0,Macedonia,19,Macedonia,0
+Serbia,18,Transylvania,2,Macedonia,19,Macedonia,0
+Serbia,18,Belgrade,0,Bulgaria,21,Sofia,0
+Constaninople,22,Constaninople,0,Bithynia,25,Nicomedia,0
+Bithynia,25,Nicomedia,0,Hittite,24,Tarhuntassa,2
+Hittite,24,Hattusa,0,Hittite,24,Tarhuntassa,2
+Hittite,24,Hattusa,0,Bithynia,25,Nicomedia,0
+Bithynia,25,Nicomedia,0,Bithynia,25,Kastamonu,1
+Bithynia,25,Kastamonu,1,Bithynia,25,Trabzon,2
+Bithynia,25,Trabzon,2,Armenia,23,Tigranocerta,2
+Hittite,24,Hattusa,0,Hittite,24,Carchemish,1
+Hittite,24,Carchemish,1,Syria,26,Halab,1
+Syria,26,Halab,1,Armenia,23,Artaxata,0
+Syria,26,Halab,1,Syria,26,Damascus,0
+Syria,26,Damascus,0,Jerusalem,28,Acre,1
+Romania,17,Moldavia,1,Dnieper,57,Dnipropetrovsk,0
+Austria,13,Austria,0,Serbia,18,Stari Ras,1
+Bologna,9,Bologna,0,Venice,14,Venice,0
+Venice,14,Venice,0,Serbia,18,Stari Ras,1
+Papal State,8,Milan,2,Bologna,9,Bologna,0
+Bologna,9,Bologna,0,Lombardy,10,Lombardy,0
+Lombardy,10,Lombardy,0,Burgundy,0,Marseille,1
+Burgundy,0,Dijon,0,Burgundy,0,Marseille,1
+Burgundy,0,Dijon,0,Champagne,48,Troyes,1
+Burgundy,0,Dijon,0,Platinate,7,Heidelberg,0
+Platinate,7,Heidelberg,0,Trier,4,Trier,0
+Trier,4,Trier,0,Burgundy,0,Dijon,0
+Champagne,48,Reims,0,Trier,4,Trier,0
+Trier,4,Trier,0,Cologne,3,Bonn,0
+Cologne,3,Bonn,0,Netherland,12,Netherland,0
+Cologne,3,Bonn,0,Mainz,6,Mainz,0
+Mainz,6,Mainz,0,Trier,4,Trier,0
+Netherland,12,Netherland,0,Saxony,2,Hamburg,1
+Saxony,2,Hamburg,1,Saxony,2,Lubeck,2
+Saxony,2,Lubeck,2,Denmark,70,Schleswig,2
+Saxony,2,Allstedt,0,Saxony,2,Hamburg,1
+Saxony,2,Allstedt,0,Brandenburg,1,Brennaburg,0
+Brandenburg,1,Brennaburg,0,Brandenburg,1,Berlin,1
+Brandenburg,1,Brennaburg,0,Brandenburg,1,Potsdam,2
+Brandenburg,1,Berlin,1,Silesia,81,Lubusz,1
+Silesia,81,Lubusz,1,Teutonic,78,Konigsberg,0
+Brandenburg,1,Potsdam,2,Silesia,81,Legnica,2
+Silesia,81,Legnica,2,Silesia,81,Wrocław,0
+Silesia,81,Wrocław,0,Silesia,81,Lubusz,1
+Silesia,81,Wrocław,0,Volhynia,82,Volodymyr,0
+Volhynia,82,Volodymyr,0,Volhynia,82,Lutsk,1
+Volhynia,82,Lutsk,1,Kiev,59,Zhytomyr,1
+Kiev,59,Zhytomyr,1,Volhynia,82,Kovel,2
+Volhynia,82,Kovel,2,Volhynia,82,Volodymyr,0
+Volhynia,82,Lutsk,1,Belarus,55,Minsk,0
+Bohemia,5,Sudeten,2,Bohemia,5,Prague,0
+Bohemia,5,Prague,0,Bohemia,5,Moravia,1
+Bohemia,5,Moravia,1,Hungary,15,Budapest,0
+Hungary,15,Budapest,0,Hungary,15,Pecs,2
+Hungary,15,Budapest,0,Hungary,15,Debrecen,1
+Platinate,7,Heidelberg,0,Bavaria,11,Munich,1
+Bavaria,11,Munich,1,Austria,13,Austria,0
+Bavaria,11,Ratisbon,0,Bavaria,11,Munich,1
+Bavaria,11,Ratisbon,0,Austria,13,Austria,0
+Bavaria,11,Ratisbon,0,Bohemia,5,Sudeten,2
+Saxony,2,Allstedt,0,Bohemia,5,Sudeten,2
+Mainz,6,Mainz,0,Bavaria,11,Nuremberg,2
+Bavaria,11,Nuremberg,2,Bavaria,11,Ratisbon,0
+Saxony,2,Hamburg,1,Mainz,6,Mainz,0
+Mainz,6,Mainz,0,Saxony,2,Allstedt,0
+Hungary,15,Pecs,2,Serbia,18,Stari Ras,1
+Hungary,15,Debrecen,1,Volhynia,82,Kovel,2
+Brandenburg,1,Berlin,1,Saxony,2,Lubeck,2
+Caucasus,63,Ciscaucasia,1,Volga,62,Astrakhan,1
+Romania,17,Moldavia,1,Volhynia,82,Kovel,2

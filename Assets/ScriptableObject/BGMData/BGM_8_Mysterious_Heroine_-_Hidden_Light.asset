@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bca841912912c947b541785456e4881, type: 3}
+  m_Name: BGM_8_Mysterious_Heroine_-_Hidden_Light
+  m_EditorClassIdentifier: 
+  isStar: 0
+  ID: 8
+  musicClip: {fileID: 8300000, guid: 603db48a6c1cb8a41901d2179e436958, type: 3}
+  musicTime: 201.12502
+  titlesJson: 
+  authorsJson: 

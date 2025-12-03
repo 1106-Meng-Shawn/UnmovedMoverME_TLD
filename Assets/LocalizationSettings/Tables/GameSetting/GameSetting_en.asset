@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GameSetting_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: fb4a1e509838e154b85d8a8d07dc319e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39324442624
+    m_Localized: SPRING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39387357184
+    m_Localized: SUMMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39387357185
+    m_Localized: AUTUMN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39387357186
+    m_Localized: WINTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884347286478849
+    m_Localized: CHECK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884347286478848
+    m_Localized: REREAD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884119116341248
+    m_Localized: TASKS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884119196033024
+    m_Localized: EVENTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884119196033025
+    m_Localized: REPORTS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4546426112270336
+    m_Localized: Next Season
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5427386345283584
+    m_Localized: Explore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594527941582848
+    m_Localized: Replenish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594528025468928
+    m_Localized: Battle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594528025468929
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6594528025468930
+    m_Localized: Scout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9770300202508288
+    m_Localized: "You are stepping into not the same river again\u2026"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10944878748590080
+    m_Localized: Get
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14230050990415872
+    m_Localized: Remove Lord
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

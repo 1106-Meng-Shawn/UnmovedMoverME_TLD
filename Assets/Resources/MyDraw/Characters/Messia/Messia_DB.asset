@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e57d275d1ef7e7d4baaba9c32ed3d230, type: 3}
+  m_Name: Messia_DB
+  m_EditorClassIdentifier: 
+  CharacterKey: Messia
+  DefaultSprite: {fileID: 21300000, guid: 2d77bd2d725b210459e4aa7838eebfaa, type: 3}
+  DefaultIcon: {fileID: 21300000, guid: b57d6c3abef8c414bba9e80634d8c492, type: 3}
+  characterTypes:
+  - characterType: Messia
+    DefaultSprite: {fileID: 21300000, guid: 5e1a0ebfe1f27534bacbe581c558d604, type: 3}
+    DefaultIcon: {fileID: 21300000, guid: 742d5cf2f1c98584696ca35e6f82ff72, type: 3}
+    poses: []

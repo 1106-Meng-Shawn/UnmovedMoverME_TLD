@@ -1,0 +1,67 @@
+﻿Key,Chinese (Simplified)(zh-Hans),Chinese (Traditional)(zh-TW),English(en),Japanese(ja)
+Elector,选帝侯,選帝侯,Elector,選帝侯
+Country,国家,國家,Country,国
+Region,地区,地區,Region,地域
+Character,角色,角色,Character,人物
+Item,物品,物品,Item,道具
+Recruit,征兵,徵兵,Recruit,徴兵
+Events,事件,事件,Events,事件
+Tasks,任务,任務,Tasks,任務
+Reports,报告,報告,Reports,報告
+Total Population,总人口,總人口,Total Population,総人口
+Total Food,总食物,總食物,Total Food,総食料
+Total Science,总科研,總科研,Total Science,総科学
+Total Politics,总政治,總政治,Total Politics,総政治
+Total Gold,总金币,總金幣,Total Gold,総金貨
+Total Faith,总信仰,總信仰,Total Faith,総信仰
+Consctiption Popution,征兵人口,徵兵人口,Consctiption Popution,徴兵人口
+Support Rate,支持率,支持率,Support Rate,支持率
+Region Number,地区数量,地區數量,Region Number,地域数
+Character Number,角色数量,角色數量,Character Number,人物数
+Item Number,物品数量,物品數量,Item Number,道具数
+Scout,侦查,偵查,Scout,偵察
+Build,建造,建造,Build,建設
+Negotiation,交涉,交涉,Negotiation,交渉
+Lord,领主,領主,Lord,領主
+Achievenment Point,成就点数,成就點數,Achievenment Point,達成ポイント
+Favorability,好感度,好感度,Favorability,好感度
+Region Support Rate,地区支持率,地區支持率,Region Support Rate,地域支持率
+Declare War,宣战,宣戰,Declare War,宣戦布告
+Build,建造,建造,Build,建設
+Explore,探索,探索,Explore,探検
+Explore Level,探索等级,探索等級,Explore Level,探検レベル
+Food,食物,食物,Food,食料
+Science,科研,科研,Science,科学
+Politics,政治,政治,Politics,政治
+Gold,金币,金幣,Gold,金貨
+Faith,信仰,信仰,Faith,信仰
+Region Total Population,地区总人口,地區總人口,Region Total Population,地域総人口
+Region Next Population,地区下期人口,地區下期人口,Region Next Population,次期人口
+Population Growth Rate,人口增长率,人口增長率,Population Growth Rate,人口増加率
+Available Population,可用人口,可用人口,Available Population,利用可能人口
+Region Recruited Population,地区征兵人口,地區徵兵人口,Region Recruited Population,地域徴兵人口
+Food Parameter,食物参数,食物參數,Food Parameter,食料パラメータ
+Science Parameter,科研参数,科研參數,Science Parameter,科学パラメータ
+Politics Parameter,政治参数,政治參數,Politics Parameter,政治パラメータ
+Gold Parameter,金币参数,金幣參數,Gold Parameter,金貨パラメータ
+Faith Parameter,信仰参数,信仰參數,Faith Parameter,信仰パラメータ
+Food Growth,食物增长率,食物增長率,Food Growth,食料成長率
+Science Growth,科研增长率,科研增長率,Science Growth,科学成長率
+Politics Growth,政治增长率,政治增長率,Politics Growth,政治成長率
+Gold Growth,金币增长率,金幣增長率,Gold Growth,金貨成長率
+Faith Growth,信仰增长率,信仰增長率,Faith Growth,信仰成長率
+Region Food Surplus,地区食物盈余,地區食物盈餘,Region Food Surplus,地域食料余剰
+Region Science Surplus,地区科研盈余,地區科研盈餘,Region Science Surplus,地域科学余剰
+Region Politics Surplus,地区政治盈余,地區政治盈餘,Region Politics Surplus,地域政治余剰
+Region Gold Surplus,地区金币盈余,地區金幣盈餘,Region Gold Surplus,地域金貨余剰
+Region Faith Surplus,地区信仰盈余,地區信仰盈餘,Region Faith Surplus,地域信仰余剰
+Region Next Food,地区下期食物,地區下期食物,Region Next Food,地域次期食料
+Region Next Science,地区下期科研,地區下期科研,Region Next Science,地域次期科学
+Region Next Politics,地区下期政治,地區下期政治,Region Next Politics,地域次期政治
+Region Next Gold,地区下期金币,地區下期金幣,Region Next Gold,地域次期金貨
+Region Next Faith,地区下期信仰,地區下期信仰,Region Next Faith,地域次期信仰
+Region Next Tax Food,地区下期食物税,地區下期食物稅,Region Next Tax Food,地域次期食料税
+Region Next Tax Science,地区下期科研税,地區下期科研稅,Region Next Tax Science,地域次期科学税
+Region Next Tax Politics,地区下期政治税,地區下期政治稅,Region Next Tax Politics,地域次期政治税
+Region Next Tax Gold,地区下期金币税,地區下期金幣稅,Region Next Tax Gold,地域次期金貨税
+Region Next Get Faith,地区下期信仰值,地區下期信仰值,Region Next Get Faith,地域次期信仰値

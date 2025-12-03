@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: GeneralSettingTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: GeneralSettingTable
+  m_TableCollectionNameGuidString: 29b215b4e6b400c4988914253ee94d0a
+  m_Entries:
+  - m_Id: 74995240960
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10663146590208
+    m_Key: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11369148616704
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11617346555904
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34190851608576
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36611690631168
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36907384868864
+    m_Key: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37364899549184
+    m_Key: Back to Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37666180599808
+    m_Key: Return to Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39112246595584
+    m_Key: Exit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180056681910272
+    m_Key: Close Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191288591814656
+    m_Key: Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191846484578304
+    m_Key: Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195362544455680
+    m_Key: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214768607596544
+    m_Key: Global Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215149718835200
+    m_Key: Background Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215398449451008
+    m_Key: Sound Effects Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222212557672448
+    m_Key: Character Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308235346153472
+    m_Key: UI Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40967962912563200
+    m_Key: This is a test text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48530431470149632
+    m_Key: Load Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57267361478828032
+    m_Key: Extras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57272137197248512
+    m_Key: Continue Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57272451077988352
+    m_Key: Start Game
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7566864727215177752
+  references:
+    version: 2
+    RefIds:
+    - rid: 7566864727215177752
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1734549683038

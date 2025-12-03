@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bca841912912c947b541785456e4881, type: 3}
+  m_Name: BGM_9_Silent_Memory_-_Echoes_Of_Us
+  m_EditorClassIdentifier: 
+  isStar: 0
+  ID: 9
+  musicClip: {fileID: 8300000, guid: f306e6e0f8348b5458c06b33ec413e7d, type: 3}
+  musicTime: 162
+  titlesJson: 
+  authorsJson: 

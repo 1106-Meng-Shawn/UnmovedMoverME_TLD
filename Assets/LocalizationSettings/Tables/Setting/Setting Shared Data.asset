@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Setting Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Setting
+  m_TableCollectionNameGuidString: 3055c379ae204214fbae1e8a77f6d8d4
+  m_Entries:
+  - m_Id: 831502733312
+    m_Key: Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733313
+    m_Key: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733314
+    m_Key: Text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733315
+    m_Key: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733316
+    m_Key: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733317
+    m_Key: Full Screen Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733318
+    m_Key: Window Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733319
+    m_Key: Display Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733320
+    m_Key: Display Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733321
+    m_Key: Game Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733322
+    m_Key: Skip Unread
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733323
+    m_Key: Change Read Color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733324
+    m_Key: Text Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733325
+    m_Key: Auto Text Speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733326
+    m_Key: Master Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733327
+    m_Key: Bgm Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733328
+    m_Key: Sfx Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733329
+    m_Key: Voice Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 831502733330
+    m_Key: Default
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1222820015597158401
+  references:
+    version: 2
+    RefIds:
+    - rid: 1222820015597158401
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1760555318613

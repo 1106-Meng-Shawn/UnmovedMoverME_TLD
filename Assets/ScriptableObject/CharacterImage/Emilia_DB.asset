@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e57d275d1ef7e7d4baaba9c32ed3d230, type: 3}
+  m_Name: Emilia_DB
+  m_EditorClassIdentifier: 
+  CharacterKey: Emilia
+  DefaultSprite: {fileID: 21300000, guid: 92628b5c9cd5ea842b692a01ced12614, type: 3}
+  DefaultIcon: {fileID: 21300000, guid: e6804380b39ef31429e62b6e759fbecc, type: 3}
+  characterTypes:
+  - characterType: Emilia
+    DefaultSprite: {fileID: 21300000, guid: 96bb8f0941098254d99efa1797400f26, type: 3}
+    DefaultIcon: {fileID: 0}
+    poses:
+    - poseName: Stand
+      poseIcon: {fileID: 0}
+      poseSprite: {fileID: 21300000, guid: 2f8464c0a49924048a8846ede1b1bf9d, type: 3}
+      expressions:
+      - expressionName: Normal
+        expressionSprite: {fileID: 21300000, guid: a628adf9449222f4d9aa7b3f03882324, type: 3}
+      - expressionName: Sad
+        expressionSprite: {fileID: 21300000, guid: 5e04697459e3c73408102df6c8eada2d, type: 3}
+      - expressionName: Smile
+        expressionSprite: {fileID: 21300000, guid: e1621a893c3bb704a8d4a07b15a56d6d, type: 3}
+      accessories: []

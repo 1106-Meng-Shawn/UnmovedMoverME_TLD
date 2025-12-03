@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: GeneralSettingTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 29b215b4e6b400c4988914253ee94d0a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 74995240960
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10663146590208
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11369148616704
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11617346555904
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 34190851608576
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36611690631168
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 36907384868864
+    m_Localized: Load
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37364899549184
+    m_Localized: Back to Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37666180599808
+    m_Localized: Return to Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39112246595584
+    m_Localized: Exit Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 180056681910272
+    m_Localized: Close Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191288591814656
+    m_Localized: Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 191846484578304
+    m_Localized: Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 195362544455680
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214768607596544
+    m_Localized: Global Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215149718835200
+    m_Localized: Background Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 215398449451008
+    m_Localized: Sound Effects Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 222212557672448
+    m_Localized: Character Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 308235346153472
+    m_Localized: UI Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 40967962912563200
+    m_Localized: This is a test text.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48530431470149632
+    m_Localized: Load Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57267361478828032
+    m_Localized: Extras
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57272137197248512
+    m_Localized: Continue Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57272451077988352
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

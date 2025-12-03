@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: GameCountryTable
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 5976e65c232f5064daadbab3bd8aa74d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 75cf1833262e6494cb56d7905c287d70, type: 2}
+  - {fileID: 11400000, guid: 13712cfb9e0f5734ead4bf9f026c07e7, type: 2}
+  - {fileID: 11400000, guid: 6f77ac119fa03cd4dbd414c5fdf1b313, type: 2}
+  - {fileID: 11400000, guid: d43e597832458b14b8f6101c1af73760, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

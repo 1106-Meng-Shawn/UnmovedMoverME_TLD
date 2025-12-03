@@ -1,0 +1,199 @@
+Burgundy,Dijon,0,-16.065,3.135,0
+Burgundy,Marseille,1,-16.815,-1.17,0
+Brandenburg,Brennaburg,0,-6.285,11.175,0
+Brandenburg,Berlin,1,-5.205,13.26,0
+Brandenburg,Potsdam,2,-5.415,9.059999,0
+Saxony,Allstedt,0,-9.63,10.32,0
+Saxony,Hamburg,1,-11.805,12.225,0
+Saxony,Lubeck,2,-10.515,14.325,0
+Cologne,Bonn,0,-13.89,9.66,0
+Trier,Trier,0,-14.085,6.705,0
+Bohemia,Prague,0,-5.745,6.93,0
+Bohemia,Moravia,1,-3.54,5.82,0
+Bohemia,Sudeten,2,-7.95,7.470001,0
+Mainz,Mainz,0,-11.76,9.12,0
+Platinate,Heidelberg,0,-13.14,4.38,0
+Papal State,Seven-Hilled City,0,-9.6,-4.95,0
+Papal State,San Marino,1,-9.405,-2.31,0
+Papal State,Milan,2,-11.985,-1.14,0
+Bologna,Bologna,0,-10.575,1.845,0
+Lombardy,Lombardy,0,-13.44,1.335,0
+Bavaria,Ratisbon,0,-8.955,6.030002,0
+Bavaria,Munich,1,-11.55,4.935,0
+Bavaria,Nuremberg,2,-10.785,7.17,0
+Netherlands,Netherlands,0,-15.36,11.46,0
+Austria,Austria,0,-7.83,3.33,0
+Venice,Venice,0,-8.316,-0.3765,0
+Hungary,Budapest,0,-1.68,3.78,0
+Hungary,Debrecen,1,1.215,4.59,0
+Hungary,Pecs,2,-4.110001,1.83,0
+Thrace,East Thrace,0,4.785,-5.13,0
+Thrace,West Thrace,1,2.175,-7.305,0
+Romania,Bucharest,0,5.55,-0.51,0
+Romania,Moldavia,1,6.030002,3.21,0
+Serbia,Belgrade,0,-1.53,-0.96,0
+Serbia,Stari Ras,1,-5.265,0.03,0
+Serbia,Transylvania,2,-4.515,-2.16,0
+Macedonia,Macedonia,0,-2.3505,-5.7315,0
+Greece,Athens,0,0.66,-10.95,0
+Bulgaria,Sofia,0,1.725,-2.55,0
+Bulgaria,North Thrace,1,4.635,-3.675,0
+Constaninople,Constaninople,0,8.145,-6.045,0
+Armenia,Artaxata,0,18.285,-9.315001,0
+Armenia,Ani,1,23.775,-8.174999,0
+Armenia,Tigranocerta,2,19.215,-6.345001,0
+Hittite,Hattusa,0,11.67,-10.05,0
+Hittite,Carchemish,1,15.555,-10.995,0
+Hittite,Tarhuntassa,2,5.505,-11.535,0
+Bithynia,Nicomedia,0,12.285,-7.725001,0
+Bithynia,Kastamonu,1,13.191,-5.3895,0
+Bithynia,Trabzon,2,15.75,-6.3,0
+Syria,Damascus,0,22.845,-11.49,0
+Syria,Halab,1,19.395,-11.355,0
+Mesopotamia,Babylon,0,27.72,-11.97,0
+Mesopotamia,Uruk,1,31.5,-15.9,0
+Jerusalem,Sacred City,0,17.625,-16.905,0
+Jerusalem,Acre,1,19.74,-14.91,0
+Jerusalem,Ashkelon,2,17.37,-19.59,0
+Sinai,Sinai,0,15.555,-22.38,0
+Egypt,Cairo,0,11.985,-23.325,0
+Egypt,Rhacotis,1,9.24,-21.87,0
+Egypt,Thebes,2,14.475,-28.08,0
+Cyprus,Cyprus,0,14.325,-14.625,0
+Persia,Assur,0,29.7,-7.875,0
+Persia,Tehran,1,38.31,-7.095001,0
+Persia,Ecbatana,2,33.48,-10.62,0
+Africa,Tripolitania,0,-10.35,-19.725,0
+Africa,Fezzan,1,-6.090001,-22.86,0
+Cyrenaica,Cyrene,0,0.39,-19.56,0
+Cyrenaica,Benghazi,1,-2.655,-23.505,0
+Mauretania,Cherchell,0,-23.22,-10.65,0
+Mauretania,Hippo,1,-17.4,-12.24,0
+Mauretania,Oran,2,-27.795,-11.955,0
+Sardinia and Corsica,Sardinia,0,-14.145,-6.825,0
+Sardinia and Corsica,Corsica,1,-13.74,-3.795,0
+Tunisia,Tunisia,0,-13.155,-12.51,0
+Tunisia,Tacapae,1,-15.015,-17.94,0
+Andalusia,Cordoba,0,-31.035,-5.895,0
+Andalusia,Granada,1,-28.395,-8.715,0
+Andalusia,Gibraltar,2,-31.86,-8.385,0
+Aragon,Zaragoza,0,-25.02,-5.4,0
+Aragon,Albacete,1,-24.675,-2.865,0
+Aragon,Teruel,2,-28.38,-5.52,0
+Basque,Pamplona,0,-28.065,0.78,0
+Basque,Roncevaux Pass,1,-24.69,-0.69,0
+Castile,Leon,0,-28.32,-1.095,0
+Castile,Toledo,1,-31.68,-3.27,0
+Castile,Salamanca,2,-31.035,-2.01,0
+Catalonia,Barcelona,0,-22.215,-3.54,0
+Catalonia,Girona,1,-20.97,-2.28,0
+Demon's Castle,Demon's Castle,0,-28.185,-3.855,0
+Galicia,Compostela,0,-32.655,1.785,0
+Galicia,Lugo,1,-29.97,2.43,0
+Maghreb,Tangier,0,-33.3,-10.26,0
+Maghreb,Fez,1,-32.895,-12.84,0
+Maghreb,Rabat,2,-37.815,-13.2,0
+Portugal,Lisbon,0,-34.83,-4.29,0
+Portugal,Aeminium,1,-34.695,-2.55,0
+Portugal,Porto,2,-32.745,-0.675,0
+Solomon Islands,Solomon Islands,0,-21.12,-6.675,0
+Champagne,Reims,0,-16.875,7.065,0
+Champagne,Troyes,1,-17.055,4.38,0
+Champagne,Orleans,2,-18.825,2.85,0
+Aquitaine,Bordeaux,0,-23.475,2.355,0
+Aquitaine,Limoges,1,-21.045,3.48,0
+Aquitaine,Agen,2,-23.01,0.195,0
+Brittany,Rennes,0,-21.825,7.455,0
+Brittany,Brest,1,-24.765,8.655,0
+Brittany,Vannes,2,-23.535,5.52,0
+Normandy,Rouen,0,-18.105,9.66,0
+Normandy,Caen,1,-20.265,8.37,0
+Ile de Paris,Ile de Paris,0,-19.365,5.7675,0
+Toulouse,Toulouse,0,-19.71,1.14,0
+Toulouse,Carcassonne,1,-20.37,-1.14,0
+Moscow,Moscow,0,16.2,15.66,0
+Moscow,Vladimir,1,21.015,17.445,0
+Moscow,Tver,2,12.195,18.12,0
+Belarus,Minsk,0,7.05,12.675,0
+Belarus,Polotsk,1,8.505,15.93,0
+Belarus,Vitebsk,2,12.015,13.455,0
+Crimea,Crimea,0,13.53,1.425,0
+Dnieper,Dnipropetrovsk,0,14.73,6.030002,0
+Dnieper,Cherkasy,1,10.92,8.730001,0
+Kazan,Kazan,0,19.65,23.7,0
+Kazan,Yelabuga,1,22.5,27.165,0
+Kazan,Cheboksary,2,15.81,22.095,0
+Kiev,Kiev,0,9.765,6.855001,0
+Kiev,Zhytomyr,1,6.54,7.755,0
+Komi,Syktyvkar,0,16.38,30.225,0
+Komi,Ukhta,1,18.045,33.03,0
+Novgorod,Veliky Novgorod,0,10.38,21.48,0
+Novgorod,Plescow,1,6.285,21.825,0
+Novgorod,Ladoga,2,7.860001,23.7,0
+Volga,Nizhny Novgorod,0,21.39,11.16,0
+Volga,Astrakhan,1,25.785,6.075,0
+Volga,Bolghar,2,26.73,12.705,0
+Caucasus,Georgia,0,22.785,-2.37,0
+Caucasus,Ciscaucasia,1,24.555,0.915,0
+Caucasus,Transcaucasia,2,28.755,-3.9,0
+Karelia,Vyborg,0,7.77,25.455,0
+Karelia,East Karelia,1,6.840001,29.865,0
+Karelia,Kola Peninsula,2,8.265,34.47,0
+Avalon,Avalon,0,-23.415,16.71,0
+Englaland,London,0,-20.385,11.91,0
+Englaland,York,1,-19.44,16.02,0
+Englaland,Bristol,2,-23.055,12.87,0
+Ireland,Dublin,0,-25.635,15.63,0
+Ireland,Belfast,1,-24.21,19.32,0
+Wales,Lanceshire,0,-22.2,15.3,0
+Wales,Cardiff,1,-23.76,14.1165,0
+Scotland,Highland,0,-20.25,22.2,0
+Scotland,Edinburgh,1,-20.3115,19.476,0
+Scotland,Glasgow,2,-21.87,18.336,0
+Denmark,Copenhagen,0,-7.785,16.53,0
+Denmark,Jutland,1,-10.245,18.66,0
+Denmark,Schleswig,2,-11.4,15.99,0
+Iceland,Iceland,0,-24.51,36.15,0
+Sami,Inari,0,0.345,36.39,0
+Sami,Kautokeino,1,-1.83,34.305,0
+Sami,Valhalla,2,2.25,38.25,0
+Sweden,Stockholm,0,-3.9,19.56,0
+Sweden,Uppsala,1,-4.02,24.42,0
+Sweden,Lulea,2,-1.755,28.74,0
+Finland,Turku,0,0.015,24.15,0
+Finland,Helsinki,1,4.695,24.66,0
+Finland,Oulu,2,1.74,28.98,0
+Norway,Oslo,0,-8.85,22.215,0
+Norway,Bergen,1,-12.135,24.525,0
+Norway,Tromso,2,-5.58,31.725,0
+Naples,Naples,0,-7.575,-6.720001,0
+Naples,Bari,1,-4.095,-7.74,0
+Sicily,Sicily,0,-9,-11.7,0
+Teutonic,Konigsberg,0,-0.51,14.1,0
+Baltic,Latvia,0,3.3,17.22,0
+Baltic,Estonia,1,3.27,20.865,0
+Lithuania,Lithuania,0,2.64,15.3,0
+Silesia,Wroclaw,0,-0.975,10.095,0
+Silesia,Lubusz,1,-3.195,11.835,0
+Silesia,Legnica,2,-2.43,7.695,0
+Volhynia,Volodymyr,0,1.815,9.315001,0
+Volhynia,Lutsk,1,3.765,10.785,0
+Volhynia,Kovel,2,1.98,7.38,0
+Drakensberg Mountain Range,,0,27.45,28.2,0
+Sahara,,0,-20.7,-19.2,0
+Arab,,0,23.55,-20.4,0
+Scythia,,0,33.75,12.45,0
+Siberia,,0,34.95,34.65,0
+Western Mediterranean Sea,,0,-17.1,-7.05,0
+Eastern Mediterranean Sea,,0,-0.9,-16.95,0
+Adriatic Sea,,0,-6.525002,-4.065,0
+Aegean Sea,,0,3.87,-10.89,0
+Black Sea,,0,13.155,-1.68,0
+Caspian Sea,,0,30.825,1.455,0
+Fog Ocean,,0,-37.65,-1.2,0
+Frozen Ocean,,0,-13.8,37.5,0
+North Sea,,0,-14.985,18.105,0
+Baltic Sea,,0,-1.5,19.59,0
+Persin Gulf,,0,38.055,-20.28,0
+Red Sea,,0,21.615,-31.785,0
+Monster Ocean,,0,40.125,-40.14,0

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ClassRole_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 17a66824c736ee64baf6d88dc2ee41f2, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 314609602560
+    m_Localized: Swordsman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314664128512
+    m_Localized: Lancer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322816
+    m_Localized: Shieldbearer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322817
+    m_Localized: Archer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322818
+    m_Localized: Alchemist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322819
+    m_Localized: Assassin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322820
+    m_Localized: Priest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322821
+    m_Localized: Commander
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322822
+    m_Localized: Cavalry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322823
+    m_Localized: Knight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322824
+    m_Localized: Magician
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322825
+    m_Localized: Berserker
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322826
+    m_Localized: Bard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322827
+    m_Localized: Brawler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322828
+    m_Localized: Commoner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322829
+    m_Localized: Monster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314668322830
+    m_Localized: Special
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

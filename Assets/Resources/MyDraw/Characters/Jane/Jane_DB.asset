@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e57d275d1ef7e7d4baaba9c32ed3d230, type: 3}
+  m_Name: Jane_DB
+  m_EditorClassIdentifier: 
+  CharacterKey: Jane
+  DefaultSprite: {fileID: 21300000, guid: 87d6002bdcb73fe418b111748f43b4e4, type: 3}
+  DefaultIcon: {fileID: 21300000, guid: 602c53d11ca1d1a4d8b928dbfd8ca550, type: 3}
+  characterTypes:
+  - characterType: Jane
+    DefaultSprite: {fileID: 0}
+    DefaultIcon: {fileID: 0}
+    poses: []

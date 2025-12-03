@@ -1,0 +1,36 @@
+﻿Key,Chinese (Simplified)(zh-Hans),Chinese (Traditional)(zh-TW),English(en),Japanese(ja)
+Position_NoCharacter,{PositionName} 没有角色,{PositionName} 沒有角色,{PositionName} don't have Character,{PositionName} にキャラクターがいません
+Character_ForceFull,{CharacterName} 的兵力已满,{CharacterName} 的兵力已滿,{CharacterName} force are full,{CharacterName} の戦力は最大です
+NotEnoughForce,你的兵力不足,你的兵力不足,You don't have enough force,戦力が不足しています
+Character_AddForce,{Character} 增加 {available},{Character} 增加 {available},{Character} Add {available},{Character} が {available} 増加
+Position_AtLeastOneCharacter,该位置至少要有一个角色,該位置至少要有一個角色,You should have at least one character in the position,ポジションには少なくとも1人のキャラクターが必要です
+NotEnoughResource,{resource} 不足！,{resource} 不足！,Not enough {resource}!,{resource} が足りません！
+War_WithCountry,与 {Country} 开战,與 {Country} 開戰,AT WAR WITH {Country}.,{Country} と戦争中です
+Level_Unlocked,已解锁 {Level},已解鎖 {Level},Unlocked {Level},{Level} がアンロックされました
+Recruited_PopGold,"招募人口 +{returnPop}, 金币 +{returnGold}","招募人口 +{returnPop}, 金幣 +{returnGold}","Recruited Population +{returnPop}, Gold +{returnGold}.",人口 +{returnPop}、ゴールド +{returnGold} を獲得
+Region_NoLord,{RegionName} 没有领主,{RegionName} 沒有領主,{RegionName} Don't have lord,{RegionName} にロードがいません
+Force_Minimum,最小兵力为1！,最小兵力為1！,Minimum Force is 1!,最低戦力は1です！
+Force_Max,{Character} 的兵力已达上限！,{Character} 的兵力已達上限！,{Character} Force is Maximum!,{Character} の戦力は最大です！
+Force_Restored,恢复总计 {totalRestored} 兵力。,恢復總計 {totalRestored} 戰力。,Restored total {totalRestored} Force.,合計 {totalRestored} の戦力を回復
+City_NoConnection,没有连接到 {cityName} 的城市,沒有連接到 {cityName} 的城市,Don’t have cities connected to {cityName},{cityName} に接続された都市がありません
+Force_AllFull,所有角色兵力已满！,所有角色戰力已滿！,All characters are at full Force!,すべてのキャラクターの戦力は最大です！
+Force_NoneToRestore,没有可恢复的兵力！,沒有可恢復的戰力！,No Force to restore!,回復可能な戦力がありません！
+Input_Empty,输入不能为空,輸入不能為空,Input is empty but not allowed.,入力は空にできません
+Save_Starred,该存档已标星,該存檔已標星,This save is star,このセーブは星マークされています
+Event_MustResolve,还有 {num} 个事件需要处理才能结束本季,還有 {num} 個事件需要處理才能結束本季,Has {num} event{s} must be resolved before you can end the season,{num} 件のイベントを処理する必要があります
+Game_SaveSuccess,游戏已保存,遊戲已保存,Game Saved Successfully,ゲームを保存しました
+Game_SaveFail,保存失败！,保存失敗！,Save Failed!,保存に失敗しました
+QuickSave_Success,快速保存成功,快速保存成功,Quick Save Successful,クイックセーブ成功
+QuickSave_Fail,快速保存失败！,快速保存失敗！,Quick Save Failed!,クイックセーブ失敗
+Save_NoUnstar,没有未标星存档可删除,沒有未標星存檔可刪除,No UnStar Save to delete,未星付きのセーブは削除できません
+Save_DeletedAll,已删除所有未标星存档,已刪除所有未標星存檔,Deleted All UnStar Save,すべての未星付きセーブを削除しました
+Load_Success,加载成功,加載成功,Load Success,ロード成功
+Resource_Add,{Resource} 增加 {amount},{Resource} 增加 {amount}, {Resource} Added {amount}, {Resource} が {amount} 増加
+Character_Moved,{character} 已行动,{character} 已行動,{character} has moved,{character} は行動しました
+Character_LimitReached,{character} 的兵力已达到上限！,{character} 的兵力已達到上限！,The {character}'s force has reached its limit!,{character} の兵力は上限に達しています！
+Exploration_SingleOnly,探索只能由单人进行,探索只能由單人進行,Exploration can only be performed solo,探索は単独でのみ行えます
+Scout_AllLevel,你已经侦查了所有等级！,你已經偵查了所有等級！,You’ve already scouted all levels!,すべてのレベルを偵察済みです！
+Scout_Success,侦查成功！,偵查成功！,Scout successful!,偵察成功！
+Character_IsLord,{Character} 是领主,{Character} 是領主,{Character} is the lord,{Character} は領主です
+AllPosition_NoCharacter,在位置上没有任何一个角色！,在位置上沒有任何一個角色！,There is no character at the position!,その位置にはキャラクターがいません！
+ScoutLevel_Unlocked_Already,已解锁此等级,已解鎖此等級,You have unlocked this level,このレベルをアンロックしました
